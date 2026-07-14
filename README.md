@@ -164,18 +164,14 @@ The dashboard includes:
 ![Dashboard](Screenshots/Dashboard.png)
 ### Cluster Visualization
 
-```markdown
 ![Cluster Plot](Screenshots/Cluster_Plot.png)
-```
+
 
 ### Elbow Method
 
-```markdown
 ![Elbow Method](Screenshots/Elbow_Method.png)
-```
 
 ---
-
 ## Business Insights
 
 * High-income, high-spending customers represent the most valuable segment.
