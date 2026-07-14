@@ -161,7 +161,7 @@ The dashboard includes:
 ## Screenshots
 
 ### Dashboard
-
+![Dashboard](Screenshots/Dashboard.png)
 ### Cluster Visualization
 
 ```markdown
