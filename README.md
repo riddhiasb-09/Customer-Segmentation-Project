@@ -59,7 +59,7 @@ This project analyzes customer demographic and spending data from the **Mall Cus
 | Gender             | Male/Female                           |
 | Age                | Customer age                          |
 | Annual_Income_(k$) | Annual income in thousands of dollars |
-| Spending Score    | Customer spending score               |
+| Spending_Score    | Customer spending score               |
 
 **Dataset Size**
 
